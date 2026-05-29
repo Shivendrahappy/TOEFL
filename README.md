@@ -87,4 +87,34 @@ TOEFL often gives:
 
 1 exact textual answer
 3 trap answers
+Because TOEFL is asking something very specific:
 
+Not:
+
+“What evidence existed eventually?”
+
+But:
+
+“How did scientists determine it initially?”
+
+The paragraph sequence is:
+
+1️⃣ First:
+
+worldwide sediment layer discovered
+iridium found
+scientists concluded impact
+
+2️⃣ Later:
+
+crater located in Mexico
+
+So A feels scientifically connected, but it answers a different stage in the timeline.
+
+TOEFL loves this:
+
+partially true answer
+vs
+exact answer to the question asked
+
+That’s why A is a trap.
