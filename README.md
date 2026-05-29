@@ -67,3 +67,24 @@ Wrong because:
 they never found meteorite itself
 they found evidence of impact
 
+“According to paragraph 3, how did scientists determine that a large meteorite had impacted Earth?”
+
+Meaning: What was the FIRST evidence?
+
+The paragraph says:
+
+“Scientists first identified this impact in 1980 from the worldwide layer of sediment…”
+
+So answer is B.
+
+Now why others wrong:
+
+A → crater found later
+C → archaeologists never mentioned
+D → meteorite itself never found
+
+TOEFL often gives:
+
+1 exact textual answer
+3 trap answers
+
